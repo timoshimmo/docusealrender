@@ -1,1 +1,1 @@
-FROM docuseal/docuseal:1.7.2
+FROM docuseal/docuseal:1.6.4
