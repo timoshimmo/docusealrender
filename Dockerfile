@@ -1,1 +1,1 @@
-FROM docuseal/docuseal
+FROM docuseal/docuseal:latest
