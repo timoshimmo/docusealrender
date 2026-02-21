@@ -23,7 +23,7 @@ WORKDIR /app
 COPY Gemfile* ./
 RUN bundle install
 
-COPY package.json yarn.lock ./
+COPY package.json ./
 RUN yarn install
 
 COPY . .
